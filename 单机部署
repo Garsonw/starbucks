@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T13:53:57.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="FQIXdM549AxUyFruckdP" version="14.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-12T13:56:47.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="qN7HQAtpr-i6NSDDDiQS" version="14.1.3" type="github" pages="2">
   <diagram id="3T1jNDxib8XD5g3Hl-Y6" name="单机部署">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="dDbCpMVaVzTSNtRXwzXh" name="第 2 页">
+  <diagram id="dDbCpMVaVzTSNtRXwzXh" name="应用服务器与数据库分离">
     <mxGraphModel dx="865" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="02KRWByLAjqB2JEPJppc-0" />
@@ -62,6 +62,12 @@
         </mxCell>
         <mxCell id="PB16-wLXk7EyEXomkw0L-9" value="&lt;span style=&quot;font-weight: normal&quot;&gt;war&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#33A64C;strokeWidth=1;fillColor=none;fontColor=#33A64C;whiteSpace=wrap;align=center;verticalAlign=bottom;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" vertex="1" parent="02KRWByLAjqB2JEPJppc-1">
           <mxGeometry x="152" y="360" width="348" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_zEejEt8Rqxu5QoWK41-2" value="数据库服务器" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="02KRWByLAjqB2JEPJppc-1">
+          <mxGeometry x="520" y="585" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_zEejEt8Rqxu5QoWK41-3" value="Web服务器" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="02KRWByLAjqB2JEPJppc-1">
+          <mxGeometry x="520" y="395" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
